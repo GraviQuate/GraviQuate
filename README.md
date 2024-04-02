@@ -1,3 +1,2 @@
-## GraviQuate's Python Projects Bonanza
+sing | jump | laugh
 
-Small python projects dump
